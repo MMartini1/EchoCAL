@@ -45,6 +45,8 @@ The "bin" folder has two subfolders, "Win64" and "Linux64". Download the proper 
 
 * **Michael Ryan**     - *EchoCAL GUI Design* - [spacetimeengineer](https://github.com/spacetimeengineer)
 
+* **Marinna Martini**  - *EchoCAL Maintenance* - [MMartini1](https://github.com/MMartini1)
+
 ## License
 
 EchoCAL is open source! See [LICENSE](./LICENSE.md) for complete license information.
