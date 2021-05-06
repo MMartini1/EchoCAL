@@ -19,7 +19,7 @@ This folder contains a parts list as well as wiring diagrams for all EchoCAL har
 
 ### Documentation:
 
-This folder has the Software/Firmware Installation Manuals and the User Manuals.
+This folder has the latest documentation.
 
 ### EchoCAL_GUI_Source:
 
